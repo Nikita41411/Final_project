@@ -12,7 +12,6 @@ public abstract class Food {
         this.isVegetarian = isVegetarian;
     }
 
-    //Это место подсмотрел у ГПТ, сам не разобрался, скажу честно...прошу понять и простить)
     //Возвращает количество продукта в килограммах
     public int getAmount() {
         return amount;
