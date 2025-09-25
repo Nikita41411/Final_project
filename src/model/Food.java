@@ -1,7 +1,6 @@
-
 package model;
 
-public abstract class Food {
+public abstract class Food implements Discountable {
     protected int amount; // количество продукта в килограммах
     protected double price; // цена за килограмм в рублях
     protected boolean isVegetarian; // флаг вегетарианского продукта

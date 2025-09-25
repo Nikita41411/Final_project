@@ -1,4 +1,3 @@
-
 package model.constants;
 
 //Класс для хранения цветов

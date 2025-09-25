@@ -1,4 +1,3 @@
-
 package model.constants;
 
 //Скидка на красные яблоки в 60%
