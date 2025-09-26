@@ -4,7 +4,7 @@ import model.constants.Colour;
 import model.constants.Discount;
 
 //Класс яблок - вегетарианский продукт со скидкой
-public class Apple extends Food implements Discountable {
+public class Apple extends Food {
     private final String colour;
 
     //Конструктор принимает цвет и устанавливает isVegetarian = true
